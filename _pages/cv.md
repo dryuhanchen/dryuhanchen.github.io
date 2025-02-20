@@ -19,7 +19,7 @@ Work experience
 ======
 * From 2024/01: Sichuan Academy of Social Sciences (SASS)
   * Institute of History
-  * Assistant research （2024-now）
+  * Assistant researcher （2024-now）
 
 Publications
 ======
