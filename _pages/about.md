@@ -17,7 +17,3 @@ Reserach Interests
 <li>The Debate between TCM and Western Medicine in Modern China<br>
 <li>History of Chinese Railways<br>
 
-
-Notices
-======
-The website is still under construction, please understand.
