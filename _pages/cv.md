@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* From 2024/01: Sichuan Academy of Social Sciences (SASS)
+* From 2024: Sichuan Academy of Social Sciences (SASS)
   * Institute of History
-  * Assistant researcher （2024-now）
+  * Assistant researcher （2024 till now）
 
 Publications
 ======
@@ -36,4 +36,6 @@ Teaching
   
 Honours and awards
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding Graduate of Fudan University (2024)
+* Fudan University Five-Star Graduate Teaching Assistant (2019)
+* Outstanding Graduate Teaching Assistant of Sichuan University (2016)
