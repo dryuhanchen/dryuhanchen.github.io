@@ -16,9 +16,9 @@ I am a young scholar who graduated from the History Department of Fudan Universi
 
 Reserach interests
 ======
-<li>Society and Culture History of Modern China<br>
-<li>History of Shanghai<br>
-<li>The New Life Movement<br>
-<li>The Debate between TCM and Western Medicine in Modern China<br>
-<li>History of Chinese Railways<br>
+* Society and Culture History of Modern China
+* History of Shanghai
+* The New Life Movement
+* The Debate between TCM and Western Medicine in Modern China
+* History of Chinese Railways
 
