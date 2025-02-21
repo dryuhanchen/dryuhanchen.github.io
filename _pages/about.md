@@ -14,7 +14,7 @@ I am a young scholar who graduated from the History Department of Fudan Universi
 <br>
 <br>
 
-Reserach Interests
+Reserach interests
 ======
 <li>Society and Culture History of Modern China<br>
 <li>History of Shanghai<br>
