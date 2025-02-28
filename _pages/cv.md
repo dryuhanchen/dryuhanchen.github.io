@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* From 2024: Sichuan Academy of Social Sciences (SASS)
-  * Institute of History
+* From 2024: Sichuan Academy of Social Sciences <i>四川省社會科學院</i>
+  * Institute of History <i>歷史研究所</i>
   * Assistant researcher （2024 till now）
 
 Publications
