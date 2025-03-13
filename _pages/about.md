@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ I am a young scholar who graduated from the History Department of Fudan Universi
 <br>
 <br>
 
-Research interests
+Research Interests
 ======
 * Society and Culture History of Modern China
 * History of Shanghai
