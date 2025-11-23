@@ -24,3 +24,6 @@ venue: 'Fudan University 復旦大學'
 <b>Words:</b> 330,000
 
 ---
+<img src="/images/phddiss.png" alt="phd-diss Cover" width="530" height="748">
+
+---
