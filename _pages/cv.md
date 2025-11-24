@@ -23,7 +23,7 @@ Work experience
 
 Project
 ======
-* National Social Science Fund Youth Project <i>國家社科基金青年項目</i>
+* National Social Science Fund Youth Project, PRC <i>國家社科基金青年項目</i>
   * A Study on the Development History of Zoos in Modern China from a Global Historical Perspective <i>全球史視野下的近代中國動物園發展史研究</i>
   * From September 2025
 
