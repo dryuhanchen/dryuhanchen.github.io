@@ -5,25 +5,6 @@ permalink: /zh-cn/
 author_profile: true
 ---
 
-<style>
-.cv-section {
-  position: relative;
-  padding-left: 2.6em;
-  margin-top: 1.1em;
-  margin-bottom: 0.4em;
-  font-weight: 600;
-}
-.cv-section::before {
-  content: "●";
-  position: absolute;
-  left: 0;
-  top: 0.05em;
-  font-size: 1.8em;
-  line-height: 1;
-  color: #1f2937;
-}
-</style>
-
 # 陈宇晗  
 助理研究员 · 四川省社会科学院历史研究所  
 <br>
@@ -31,7 +12,7 @@ author_profile: true
 
 ---
 
-## 教育背景 {.cv-section}
+## ● 教育背景
 - **历史学博士**，复旦大学历史学系（2018–2024）  
   指导教师：董国强 教授  
 - **历史学硕士**，四川大学历史文化学院（2015–2018）  
@@ -41,7 +22,7 @@ author_profile: true
 
 ---
 
-# 二、学术论文
+## ● 学术论文
 
 ### 2025年
 1. **《民意何以汇聚：1946年上海〈文汇报〉时局问题测验探析》**  
@@ -69,7 +50,7 @@ author_profile: true
 
 ---
 
-# 三、课题项目
+## ● 课题项目
 
 ## 主持
 1. **国家社会科学基金青年项目**（2025–）  
@@ -82,7 +63,7 @@ author_profile: true
 
 ---
 
-# 四、会议报告
+## ● 会议报告
 （按时间倒序）
 
 - **《新旧之间：1930年代上海市市立动物园的选址争议》**  
@@ -111,7 +92,7 @@ author_profile: true
 
 ---
 
-# 五、学位论文
+## ● 学位论文
 - **博士论文**：《近代中国的动物园》  
   复旦大学，2023年9月，33万字，导师：董国强 教授  
 
@@ -123,7 +104,7 @@ author_profile: true
 
 ---
 
-# 六、获奖情况
+## ● 获奖情况
 - 复旦大学优秀毕业生（2024）  
 - 复旦大学博士生优秀学业奖学金（2018-2021）  
 - 复旦大学五星研究生助教（2018）  
