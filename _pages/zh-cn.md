@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Academic CV（中文）"
-permalink: /cv-zh/
+permalink: /zh-cn/
 author_profile: true
 ---
 
