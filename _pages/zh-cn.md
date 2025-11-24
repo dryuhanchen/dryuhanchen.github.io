@@ -4,6 +4,13 @@ permalink: /zh-cn/
 author_profile: true
 ---
 
+<style>
+.page__title {
+  display: none !important;
+}
+</style>
+
+
 # 陈宇晗
 助理研究员 · 四川省社会科学院历史研究所
 <br><br>
