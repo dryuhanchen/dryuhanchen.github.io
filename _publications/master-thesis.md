@@ -26,6 +26,6 @@ venue: 'Sichuan University 四川大學'
 <b>Words:</b> 90,000
 
 ---
-<img src="/images/masterthesis.png" alt="phd-diss Cover" width="530" height="748">
+<img src="/images/masterthesis.png" alt="Master's Thesis Cover" width="530" height="748">
 
 ---
