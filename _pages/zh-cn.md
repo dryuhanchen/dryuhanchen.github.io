@@ -5,6 +5,24 @@ permalink: /zh-cn/
 author_profile: true
 ---
 
+<style>
+.cv-section {
+  position: relative;
+  padding-left: 2.6em;
+  margin-top: 1.1em;
+  margin-bottom: 0.4em;
+  font-weight: 600;
+}
+.cv-section::before {
+  content: "●";
+  position: absolute;
+  left: 0;
+  top: 0.05em;
+  font-size: 1.8em;
+  line-height: 1;
+  color: #1f2937;
+}
+</style>
 
 # 陈宇晗  
 助理研究员 · 四川省社会科学院历史研究所  
@@ -13,7 +31,7 @@ author_profile: true
 
 ---
 
-# 一、教育背景
+## 教育背景 {.cv-section}
 - **历史学博士**，复旦大学历史学系（2018–2024）  
   指导教师：董国强 教授  
 - **历史学硕士**，四川大学历史文化学院（2015–2018）  
