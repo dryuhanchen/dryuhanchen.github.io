@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Banzhuyuan Campus, Chengdu, China"
 ---
 
-This course focuses on the study of modern Chinese history from 1840 to 1949. The content of my course is the social history of the Republic of China(ROC), totaling 20 hours.
+This course focuses on the study of modern Chinese history from 1840 to 1949. The content of my course is the social history of the Republic of China, totaling 20 hours.
 
 <br>
 
