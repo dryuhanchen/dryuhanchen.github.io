@@ -1,10 +1,10 @@
 ---
 layout: single
 permalink: /zh-cn/
-author_profile: ture
+author_profile: true
 ---
 
-
+# 陈宇晗
 助理研究员 · 四川省社会科学院历史研究所
 <br><br>
 **研究方向：** 中国近现代社会文化史、城市史；兼及新闻传播史、医疗史、铁路史等领域。
