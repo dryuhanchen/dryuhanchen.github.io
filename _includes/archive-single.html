@@ -52,11 +52,7 @@
 
           {% elsif post.category == "conferences" %}
             <p>
-              Presented at <i>{{ post.venue }}</i>
-               {% if post.location %}
-                  , {{ post.location }}
-                {% endif %}
-              , {{ post.date | date: "%Y" }}
+              Presented at <i>{{ post.venue }}</i>{% if post.location %}, {{ post.location }}{% endif %}, {{ post.date | date: "%Y" }}
             </p>
     
           {% elsif post.category == "thesis" %}
