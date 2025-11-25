@@ -51,8 +51,14 @@
             </p>
 
           {% elsif post.category == "conferences" %}
-            <p>Presented at <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
-
+            <p>
+              Presented at <i>{{ post.venue }}</i>
+               {% if post.location %}
+                  , {{ post.location }}
+                {% endif %}
+              , {{ post.date | date: "%Y" }}
+            </p>
+    
           {% elsif post.category == "thesis" %}
             <p>Master's Thesis, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
 
