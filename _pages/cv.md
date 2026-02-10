@@ -42,7 +42,7 @@ Teaching
   
 Honours and awards
 ======
-* "Research Elite" of SASS (2026)
+* Research Elite of Sichuan Academy of Social Sciences (2026)
 * Outstanding Graduate of Fudan University (2024)
 * Fudan University Five-Star Graduate Teaching Assistant (2019)
 * Outstanding Graduate Teaching Assistant of Sichuan University (2016)
